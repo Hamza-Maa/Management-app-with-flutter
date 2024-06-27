@@ -13,7 +13,7 @@ This Flutter app is designed for supervisors to efficiently manage various aspec
 
 ## Screenshots
 
-*Include screenshots of the app here*
+![Customers List](Screenshots/Customers%20List.png)
 
 ## Installation
 
