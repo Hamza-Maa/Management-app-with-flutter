@@ -12,8 +12,17 @@ This Flutter app is designed for supervisors to efficiently manage various aspec
 - **Order Status**: Check and update the status of orders in real-time, providing accurate information to clients and drivers.
 
 ## Screenshots
-
+### Customer List
 ![Customers List](Screenshots/Customers%20List.png)
+
+### Driver List
+![Driver List](Screenshots/Driver%20List.png)
+
+### Order Details
+![Order Details](Screenshots/Order%20Details.png)
+
+### Orders List
+![Orders List](Screenshots/Orders%20List.png)
 
 ## Installation
 
