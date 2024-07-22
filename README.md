@@ -12,12 +12,18 @@ This Flutter app is designed for supervisors to efficiently manage various aspec
 - **Order Status**: Check and update the status of orders in real-time, providing accurate information to clients and drivers.
 
 ## Screenshots
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around;">
-  <img src="Screenshots/Customers%20List.png" alt="Customers List" width="200"/>
-  <img src="Screenshots/Driver%20List.png" alt="Driver List" width="200"/>
-  <img src="Screenshots/Order%20Details.png" alt="Order Details" width="200"/>
-  <img src="Screenshots/Orders%20List.png" alt="Orders List" width="200"/>
-</div>
+Here are some screenshots of the warehouse management App:
+<p align="center">
+  <img src="Screenshots/Sign in.png" />
+  <img src="Screenshots/customers.png"/>
+  <img src="Screenshots/notes.png"/>
+  <img src="Screenshots/Drivers.png"/>
+  <img src="Screenshots/Sectors.png"/>
+  <img src="Screenshots/notification.png"/>
+  <img src="Screenshots/orders.png"/>
+
+</p>
+
 ## Installation
 
 To get started with the app, follow these steps:
